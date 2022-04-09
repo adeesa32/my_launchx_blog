@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Aquí me desahogaré sobre mi entrada a backend!
 ---
 
 Hola ✌️  soy el explorer Adelina Escobar y este es mi blog personal donde compartiré mis aventuras de Launch X.
